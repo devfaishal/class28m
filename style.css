@@ -1,0 +1,119 @@
+body{
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+.min_div_bg{
+    background: #f9f9ff;
+}
+/* Header Section */
+.navbar img{
+    width: 100px;
+}
+
+
+/* Banner Secrtion */
+.banner_text {
+	margin-top: 135px;
+}
+.banner_text h6{
+	font-weight: 600;
+}
+.sec_img {
+	width: 480px;
+	margin-left: 30px;
+}
+.banner_text a{
+    background: #8490ff;
+    color: #fff;
+}
+.about_text{
+    margin-left: 30px;
+}
+.about_text a{
+    background: #8490ff;
+    color: #fff;
+}
+
+/* Counter Section */
+.counter_section {
+	background: #8490ff;
+	padding-top: 75px;
+	padding-bottom: 60px;
+	color: #fff;
+}
+.counter_item h1 {
+	font-weight: 600;
+}
+
+
+/* Pricing Section */
+.pricing_item{
+    padding: 10px 15px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);;
+}
+.pricing_item span {
+	font-size: 35px;
+	border-radius: 50%;
+	background: #f9f9ff;
+	padding: 25px;
+	display: block;
+	width: 105px;
+	margin-bottom: 5px;
+}
+.pricing_item h4 {
+	font-size: 21px;
+}
+.pricing_item h5 {
+	font-size: 15px;
+}
+.pricing_item p{
+    font-weight: 500;
+    color: #a0a0a0;
+}
+.pricing_item a{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+
+/* Team Section */
+.team_section {
+	margin-top: 75px;
+}
+.card img {
+	width: 95px;
+	margin-top: -64px;
+	margin-left: 15px;
+}
+.card:hover a{
+	color: #000!important;
+}
+
+/* Contact Section */
+.contact_form{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+.contact_form button{
+    background: #17a2b8;
+    color: #fff;
+    font-weight: 400;
+}
+.contact_form:hover button{
+	color: #fff !important;
+}
+.form_right_text {
+	margin-top: 70px;
+	margin-left: 30px;
+}
+/* Footer */
+.footer_section{
+	background: #04091e;
+}
+.footer_section p {
+	font-weight: 400;
+	font-size: 18px;
+}
+
+
+
+
+
+
